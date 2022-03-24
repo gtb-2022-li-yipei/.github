@@ -17,4 +17,4 @@
 
 🍿  tough girl! It's me with Bing-Dwen-Dwen~~
 
-<img src="asset/me-with-bdd.jpg" alt="me-with-bdd" width="30%" />
+<img src="asset/me-with-bdd.jpg" alt="me-with-bdd" width="30%" />![me-with-bdd](https://user-images.githubusercontent.com/101808060/159870562-a8f8693f-d033-4931-ae36-c373c954eb57.jpg)
